@@ -1,0 +1,136 @@
+/*nav panda*/
+.cont{
+	background-color: #C13313;
+	height: 50px;
+	width: 100%;
+	display: inline-block;	
+}
+
+.cont ul li{
+	display: inline-block;
+	margin-left: 50px;
+
+}
+
+.cont ul li a{
+	display: inline-block;
+	color: white;
+}
+
+/*body panda*/
+
+.cont2{
+	background-color: #542015;
+	width: auto;
+	height: 800px;
+}
+
+.cont3{
+	display: inline-block;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+
+#pand1{
+	background-image: url(../img/panda1.jpg);
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;	
+}
+#pand2{
+	background-image: url(../img/panda2.jpg);
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+#pand3{
+	background-image: url(../img/panda3.jpg);
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+#pand4{
+	background-image: url(../img/panda4.jpg);
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
+
+/*botones*/
+.cont4{
+	display: inline-block;
+	
+	margin-left: 50px;
+}
+
+.cont4 section{
+	display: inline-block;
+	margin-top: 30px;
+	
+}
+
+.uno button{
+	background-color: #C13313;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1rem;
+	font-weight: bolder;
+	display: inline-block;
+	margin-right: 10px;
+	width: 400px;
+}
+
+.dos button{
+	background-color: #C13313;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1rem;
+	font-weight: bolder;
+	display: inline-block;
+	margin-right: 10px;
+	width: 400px;
+}
+
+.tres button{
+	background-color: #C13313;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1rem;
+	font-weight: bolder;
+	display: inline-block;
+	margin-right: 10px;
+	width: 400px;
+}
+
+/*escrito del panda*/
+.cont5{
+	display: inline-block;
+	margin-left: 150px;
+}
+
+.a {
+	color: white;
+	display: inline-block;
+	width: 500px;
+	margin-right: 20px;
+	margin-top: 40px;
+	text-align: justify-all;
+}
+
+.b {
+	color: white;
+	display: inline-block;
+	width: 500px;
+	margin-right: 20px;
+	margin-top: 40px;
+	text-align: justify-all;
+}
+
